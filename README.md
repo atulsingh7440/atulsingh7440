@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ATUL SINGH.
 - 👀 I’m interested in competitive  Coding.
-- 🌱 I’m currently learning Machine Learnig and Deep Learning.
+- 🌱 I’m currently learning Machine Learnig, Deep Learning, Gen AI, Agentic AI.
 - 💞️ I’m looking to collaborate on Deep Learning Project.
 - 📫 How to reach me atulsingh7440@gmail.com
 
